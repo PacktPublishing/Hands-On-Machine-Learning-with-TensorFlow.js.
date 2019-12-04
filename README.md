@@ -56,7 +56,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 * TensorFlow Machine Learning Cookbook, Second Edition [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-machine-learning-cookbook-second-edition) [[Amazon]](https://www.amazon.com/TensorFlow-Machine-Learning-Cookbook-intelligent-ebook/dp/B07FSGLP2V)
 
 ## Get to Know the Author
-** Kai Sasaki ** works as a software engineer at Treasure Data. He engages in developing largescale distributed systems to make data valuable. His passion for creating artificial intelligence by processing large-scale data led him to the field of machine learning. He is one of the initial contributors to TensorFlow.js and keeps working to add new operators that are required for new types of machine learning models. Because of his work, he received the Google Open Source Peer Bonus in 2018.
+**Kai Sasaki** works as a software engineer at Treasure Data. He engages in developing largescale distributed systems to make data valuable. His passion for creating artificial intelligence by processing large-scale data led him to the field of machine learning. He is one of the initial contributors to TensorFlow.js and keeps working to add new operators that are required for new types of machine learning models. Because of his work, he received the Google Open Source Peer Bonus in 2018.
 
 
 
