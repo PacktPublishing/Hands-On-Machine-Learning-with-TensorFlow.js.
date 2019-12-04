@@ -1,0 +1,19 @@
+{
+  "name": "tfjs-electron-app",
+  "version": "1.0.0",
+  "description": "A minimal Electron application using TensorFlow.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w",
+    "lint": "tslint -c tslint.json -p tsconfig.json",
+    "start": "npm run build && electron ./dist/main.js"
+  },
+  "devDependencies": {
+    "@tensorflow/tfjs": "^1.2.11",
+    "@tensorflow/tfjs-node": "^1.2.11",
+    "electron": "^6.0.8"
+  },
+  "dependencies": {
+    "typescript": "^3.6.4"
+  }
+}
