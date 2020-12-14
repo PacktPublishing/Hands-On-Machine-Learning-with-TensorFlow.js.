@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Hands-On-Machine-Learning-with-TensorFlow.js
 
 <a href="https://www.packtpub.com/data/hands-on-machine-learning-with-tensorflow-js"><img src="https://www.packtpub.com/media/catalog/product/cache/ecd051e9670bd57df35c8f0b122d8aea/9/7/9781838821739-original.jpeg" alt="Hands-On Machine Learning with TensorFlow.js" height="256px" align="right"></a>
